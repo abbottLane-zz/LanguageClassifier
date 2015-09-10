@@ -1,0 +1,5 @@
+/home/wlane/MonoProjects/Ling473Lab5/Ling473Lab5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/wlane/MonoProjects/Ling473Lab5/Ling473Lab5/bin/Debug/Ling473Lab5.exe.mdb
+/home/wlane/MonoProjects/Ling473Lab5/Ling473Lab5/bin/Debug/Ling473Lab5.exe
+/home/wlane/MonoProjects/Ling473Lab5/Ling473Lab5/obj/x86/Debug/Ling473Lab5.exe
+/home/wlane/MonoProjects/Ling473Lab5/Ling473Lab5/obj/x86/Debug/Ling473Lab5.exe.mdb
